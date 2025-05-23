@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @burte19
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html start from scratch 
-- 💞️ I’m looking to collaborate on web developer
+- 🌱 I’m currently learning html starting from scratch 
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
